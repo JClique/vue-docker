@@ -1,7 +1,8 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <img alt="Vue logo" src="./assets/vue-logo.png" style="height: 150px;">
+    <img alt="Docker logo" src="./assets/docker-logo.png" style="height: 150px;">
+    <HelloWorld msg="Welcome to Your Vue.js & Docker App"/>
   </div>
 </template>
 
